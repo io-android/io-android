@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @io-android
-- 👀 I’m interested in Mobile App Development in Java/Kotlin/React-Native
-- 🌱 I’m currently learning React-Native
+- 👀 I’m interested in Mobile App Development in Java/Kotlin/React-Native/Flutter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on New projects for mobile apps
 - 📫 How to reach me +92 340 6087822
 
